@@ -1,0 +1,10 @@
+name: PerfectSkins
+version: '${project.version}'
+main: org.mc.aneras.perfectskins.PerfectSkins
+api-version: 1.18
+authors: [ Aneras ]
+softdepend:
+  - PlaceholderAPI
+commands:
+  pfskins:
+    usage: /pfskins
